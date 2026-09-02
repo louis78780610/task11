@@ -1,0 +1,10 @@
+export { default as logo } from "./logo.png";
+export { default as mainvisualPC } from "./mainvisual-pc.png";
+export { default as products1 } from "./products1.png";
+export { default as products2 } from "./products2.png";
+export { default as resMainvisual } from "./res_mainvisual.png";
+export { default as resProducts1 } from "./res_products1.png";
+export { default as resProducts2 } from "./res_products2.png";
+export { default as path7 } from "./path7.png";
+export { default as path8 } from "./path8.png";
+export { default as path9 } from "./path9.png";
